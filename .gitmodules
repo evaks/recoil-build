@@ -1,0 +1,6 @@
+[submodule "recoil"]
+	path = recoil
+	url = git@github.com:evaks/recoil.git
+[submodule "closure-library"]
+	path = closure-library
+	url = git@github.com:evaks/closure-library.git
